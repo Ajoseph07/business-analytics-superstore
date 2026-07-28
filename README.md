@@ -16,7 +16,7 @@ This project presents an executive dashboard that enables business stakeholders 
 
 ## Dashboard Preview
 
-*Insert a screenshot of your dashboard here.*
+![Retail Sales & Profitability Executive Dashboard](images/dashboard-overview.png)
 
 ---
 
